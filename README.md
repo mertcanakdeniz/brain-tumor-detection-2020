@@ -7,7 +7,7 @@ Shared for informational purposes, not a diagnostic tool.
 ### Files
 
 - `brain_tumor_detection.m` ,  the code
-- `images/` ,  sample images and demo video
+- `images/` ,  sample images   // mri images were removed from repo due to copyright. test the code with your own image
 
 ### Usage
 
@@ -24,7 +24,7 @@ Bilgi paylaşımı amaçlıdır, tanı aracı değildir.
 ### Dosyalar
 
 - `brain_tumor_detection.m`  kod
-- `images/` , örnek görüntüler 
+- `images/` ,   // örnek görüntüler telif düşünülerek repodan kaldırılmıştır. size ait image' lar ile test gerçekleştirilebilir 
 
 ### Kullanım
 
